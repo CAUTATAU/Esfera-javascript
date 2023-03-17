@@ -1,0 +1,6 @@
+<script>
+    var raio = prompt("Digite o valor do raio");
+    const pi = Math.PI;
+    var esfera = (4.0/3.0)*pi*(raio**3);
+    console.log("o valor do volume da esfera é: "+esfera);
+</script>
